@@ -1,18 +1,21 @@
 👋 Hi, I'm Shaik Fasi Ur Rahman
-🎓 B.Tech in Computer Science
-💻 Learning Data Science and Python
-🧪 Trained in Manual & Selenium Testing
-🌱 Working on mini-projects to grow my skills
-🚀 Open to internships, freelance, and entry-level jobs
+
+🎓 B.Tech in Computer Science Engineering  
+💻 Trained in real-world Data Science, Python, Generative AI, and Agentic AI  
+🌱 Actively working on mini and large-scale projects to strengthen my skills  
+🚀 Open to internships, freelance opportunities, and entry-level roles  
 
 📚 Skills
-Python, SQL
-Jupyter Notebooks
-Manual Software Testing
-Selenium (Basics)
-Git & GitHub
+• Python, SQL  
+• Tools: Anaconda, VS Code, Jupyter Notebook, Spyder, IDLE  
+• Agentic AI Frameworks: Smol Agents, CrewAI  
+• Generative AI  
+• Git & GitHub  
+
 🔗 GitHub Projects
-Data Science Basics – Python + Mini Projects
+• Data Science projects using Python  
+• Generative AI and Agentic AI projects  
+
 📫 Connect With Me
-LinkedIn: (https://www.linkedin.com/in/fasi-rahman-3313a7300/?originalSubdomain=in)
-Email: shaikfasi0536@gmail.com
+• LinkedIn: https://www.linkedin.com/in/fasi-rahman-3313a7300  
+• Email: shaikfasi0536@gmail.com
